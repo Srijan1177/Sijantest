@@ -1,0 +1,25 @@
+--------------------------------------------------------------------------------
+	 	 	WeCare Skin
+	 	Durbar Marg, Kathmandu | Phone No: 9876543210
+--------------------------------------------------------------------------------
+
+SALES INVOICE
+Date: 2025-05-13 01:30:06
+Customer Name: Hari Bahadur
+Customer Phone: 9786543120
+
+--------------------------------------------------------------------------------
+ID    Product              Brand           Qty      Unit Price      Total          
+--------------------------------------------------------------------------------
+1     Vitamin C Serum      Garnier         6        2000.00         12000.00       
+1     Vitamin C Serum (FREE) Garnier         2        0.00            0.00           
+2     Skin Cleanser        Cetaphil        4        560.00          2240.00        
+2     Skin Cleanser (FREE) Cetaphil        1        0.00            0.00           
+--------------------------------------------------------------------------------
+
+Subtotal: Rs. 14240.00
+Free Items: 3 (Buy 3 Get 1 Free Offer)
+Grand Total: Rs. 14240.00
+
+Thank you for shopping with us!
+================================================================================
